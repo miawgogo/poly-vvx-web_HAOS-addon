@@ -1,7 +1,7 @@
 name: "Poly VVX web service"
 description: "Polycom VVX phone web service"
-url: "https://github.com/wtip/poly-vvx-web_HAOS-addon"
-version: "1.0.0"
+url: "https://github.com/miawgogo/poly-vvx-web_HAOS-addon"
+version: "1.1.0"
 slug: "poly-vvx-web"
 arch:
   - aarch64

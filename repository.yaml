@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 name: Home Assistant add-on repository for Poly VVX web service
-url: 'https://github.com/wtip/poly-vvx-web_HAOS-addon'
-maintainer: 'William Cooley https://www.wtip.net/'
+url: 'https://github.com/miawgogo/poly-vvx-web_HAOS-addon'
+maintainer: 'Ceri Loosley'
